@@ -12,7 +12,7 @@ let store = {
     comments: [
       {text: 'Hi from Tuxtla!'},
       {text: 'Hi from suchiamsterdam!'},
-      {text: 'Good job'}
+      {text: 'Hi from el jobo xd'}
     ]
     }
   ]

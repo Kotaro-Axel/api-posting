@@ -8,7 +8,7 @@ let store = {
   posts: [
     {name: 'Testing JSON (POST)',
     url: 'https://www.npmjs.com/',
-    text: 'Mi primera publicacion',
+    text: 'meow',
     comments: [
       {text: 'Hi from Tuxtla!'},
       {text: 'Hi from suchiamsterdam!'},

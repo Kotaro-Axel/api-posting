@@ -11,7 +11,7 @@ let store = {
     text: 'Mi primera publicacion',
     comments: [
       {text: 'Hi from Tuxtla!'},
-      {text: 'Cheers!'},
+      {text: 'Hi from suchiamsterdam!'},
       {text: 'Good job'}
     ]
     }
